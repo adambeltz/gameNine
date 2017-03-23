@@ -1,0 +1,41 @@
+
+sides.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background_side003
+  rotate: false
+  xy: 2, 94
+  size: 1300, 896
+  orig: 1300, 896
+  offset: 0, 0
+  index: -1
+box_left003
+  rotate: false
+  xy: 2, 2
+  size: 114, 90
+  orig: 114, 90
+  offset: 0, 0
+  index: -1
+box_right003
+  rotate: false
+  xy: 1691, 905
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+house_side001
+  rotate: false
+  xy: 1304, 675
+  size: 385, 315
+  orig: 385, 315
+  offset: 0, 0
+  index: 3
+house_side002
+  rotate: false
+  xy: 1304, 358
+  size: 365, 315
+  orig: 365, 315
+  offset: 0, 0
+  index: 3

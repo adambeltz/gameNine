@@ -1,0 +1,41 @@
+
+frontAndBack.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background_front003
+  rotate: false
+  xy: 2, 94
+  size: 1300, 910
+  orig: 1300, 910
+  offset: 0, 0
+  index: -1
+box_front
+  rotate: false
+  xy: 1506, 916
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: 3
+box_rear003
+  rotate: false
+  xy: 2, 2
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+house_front003
+  rotate: false
+  xy: 1304, 344
+  size: 200, 317
+  orig: 200, 317
+  offset: 0, 0
+  index: -1
+house_rear003
+  rotate: false
+  xy: 1304, 663
+  size: 200, 341
+  orig: 200, 341
+  offset: 0, 0
+  index: -1
